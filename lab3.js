@@ -5,7 +5,8 @@ function draw() {
     var y = 0;
     
    var ctx = canvas.getContext('2d');
-    //call the drawChar(x,y) function here
+    
+    drawChar(x,y);
 
   }
 }
