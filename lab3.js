@@ -20,8 +20,7 @@ function draw() {
     var ctx = canvas.getContext('2d');
     
         
-    //add a +x to each x coordinate
-    //add a +y to each y coordinate
+   
     ctx.fillStyle="purple";
     ctx.fillRect(25,25,100,100);
     
